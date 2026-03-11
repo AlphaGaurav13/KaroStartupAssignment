@@ -85,7 +85,7 @@ Deployment:
 
 ## 📸 Preview
 
-![Karo Pitch Homepage](screenshot.png)
+![Karo Pitch Homepage](Screenshot.png)
 
 ---
 
